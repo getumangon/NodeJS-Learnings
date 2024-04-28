@@ -27,8 +27,8 @@ Schema - Define the structure
 -------------
 
 ##### mongoDB Common Commands
--> show dbs
--> use <db_name>
--> show collections
--> db.collection.find({})
--> db.collection.insert()
+- show dbs
+- use <db_name>
+- show collections
+- db.collection.find({})
+- db.collection.insert()
